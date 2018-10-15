@@ -8,5 +8,9 @@
     "mock": "json-server --watch api.js -p 8085 "
   },
   "author": "乌酉",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.0",
+    "mockjs": "^1.0.1-beta3"
+  }
 }
