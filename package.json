@@ -1,0 +1,12 @@
+{
+  "name": "test-with-mock",
+  "version": "1.0.0",
+  "description": "测试mock数据的实验项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mock": "json-server --watch api.js -p 8085 "
+  },
+  "author": "乌酉",
+  "license": "ISC"
+}
